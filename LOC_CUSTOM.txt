@@ -1,0 +1,6 @@
+﻿// You can add your own localization in this file. Because external language support is currently under development, not all characters may display properly yet. Remember to keep a copy of this file outside of the game directory as it may be overwritten by updates.
+//será???
+// foi B)
+
+//---- Language name
+0 = "PT-BR"
