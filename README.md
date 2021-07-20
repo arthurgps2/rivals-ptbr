@@ -20,3 +20,17 @@ dá para você DIVIDIR A TELA e deixar de um lado um arquivo e do outro lado, ou
 
 (ah e o seu antivirus vai provavelmente peidar quando você abrir o atualizar.bat pela primeira vez. é só abrir uma
 exceção para ele que tá safe :sunglasses:)
+
+# informações úteis
+
+- Talvez você já percebeu, mas quando você tem duas barras seguidas (tipo assim "//"), o resto da linha depois
+dessas barras duplas é um comentário e não será lido pelo jogo. Isso é bom para deixar anotações e lembretes
+e outras coisas
+
+- Falando nisso, eu estou usando (!) como marcação de lembrete ou algo do tipo, e [! anotação] para dizer o estado
+de uma "seção" do arquivo. Por exemplo, no momento em que eu escrevo isso, a primeira seção depois do próprio nome
+da tradução está quase completa, faltando apenas uns ajustes, então no início da seção, depois do nome dela,
+está escrito [! Quase completo ainda falta uns ajustes]
+
+- Você pode apertar CTRL+F para localizar uma ou mais ocorrências de um fragmento de texto em um documento, tanto
+no Bloco de Notas quanto no Notepad++. Isso é útil para localizar essas marcações e tudo mais.
