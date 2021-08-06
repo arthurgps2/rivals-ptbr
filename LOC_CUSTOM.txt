@@ -5,13 +5,30 @@
 //=============================
 
 //---- Geral
-// Stock........................Vida
-// 
+// Stock.............................Vida
+// Buddy.............................Bichinho
+
+//---- Títulos de personagens
+// The Fire's Roar..................O Rugido do Fogo
+// The Puddle Jumper................O Saltador de Poças
+// The Wind's Fury..................A Fúria do Vento
+// Earth's Bastion..................O Guardião da Terra
+// The Exiled Flame.................A Chama Exilada
+// The Sylvan Watcher...............A Protetora da Floresta
+// The Storm Architect..............A Arquiteta de Tempestades
+// The Glacier's Might..............A Força Glacial
+// from Ori and the Blind Forest....de Ori and the Blind Forest
+// The Poisonous Pacifist...........O Pacifista Venenoso
+// The Flame's Salvation............A Salvadora da Chama
+// The Heart of the Forest..........O Coração da Floresta
+// The Aerial Arsenal...............O Arsenal Aéreo
+// Shovel of Hope...................de Shovel Knight: Shovel of Hope
+// The First Rival..................O Primeiro de Todos
 
 //---- Localidades
-// Tempest Peak.................Pico da Tempestade
-// Frozen Fortress..............Fortaleza Congelada
-// Tower of Heaven..............Torre dos Céus
+// Tempest Peak.....................Pico da Tempestade
+// Frozen Fortress..................Fortaleza Congelada
+// Tower of Heaven..................Torre dos Céus
 
 //---- Language name
 0 = "PT-BR"
@@ -78,13 +95,13 @@
 //---- Online lobby
 56 = "ACEITAR"
 57 = "RECUSAR"
-58 = "REVANCHE" // (?) é realmente a melhor tradução?
-59 = "NOVO OPONENTE"
+58 = "REVANCHE" // (!) é realmente a melhor tradução?
+59 = "NOVO JOGADOR" // (!) não cabe no hud, tem que escolher algo melhor
 60 = "Procurando..."
 61 = "Convidando..."
-62 = "OPONENTE ENCONTRADO!"
+62 = "JOGADOR ENCONTRADO!"
 63 = "CARREGANDO DADOS..."
-64 = "ESPERANDO RESPOSTA..." // (?) pra "deciding to accept" e "deciding to rematch" eu decidi que era melhor usar isso pros dois
+64 = "ESPERANDO RESPOSTA..." // (!) pra "deciding to accept" e "deciding to rematch" eu decidi que era melhor usar isso pros dois
 65 = "ESPERANDO RESPOSTA..."
 75 = "CANCELAR PROCURA"
 76 = "ENCONTRAR PARTIDA"
@@ -146,7 +163,7 @@
 114 = "Ver Ori e Sein \nna Loja Steam?"
 115 = "Ver Ranno e Clairen \nna Loja Steam?"
 116 = "Ver\nSylvanos e Elliana\nna Loja Steam?"
-117 = "Alguns replays estão incompatíveis devido a mudanças na última atualização. Excluir esses replays?"
+117 = "Alguns replays estão incompatíveis devido à última atualização. Excluí-los?"
 118 = "Excluir replay?"
 119 = "Sair do jogo?"
 120 = "Ver\nShovel Knight\nna Loja Steam?"
@@ -174,25 +191,25 @@
 
 //---- Character Titles
 150 = "???"
-151 = "The Fire's Roar"
-152 = "The Puddle Jumper"
-153 = "The Wind's Fury"
-154 = "Earth's Bastion"
-155 = "The Exiled Flame"
-156 = "The Sylvan Watcher"
-157 = "The Storm Architect"
-158 = "The Glacier's Might"
-159 = "from Ori and the Blind Forest"
-160 = "The Poisonous Pacifist"
-161 = "The Flame's Salvation"
-162 = "The Heart of the Forest"
-163 = "The Aerial Arsenal"
-164 = "Shovel of Hope"
-165 = "The First Rival"
+151 = "O Rugido do Fogo"
+152 = "O Saltador de Poças"
+153 = "A Fúria do Vento"
+154 = "O Guardião da Terra"
+155 = "A Chama Exilada"
+156 = "A Protetora da Floresta"
+157 = "A Arquiteta de Tempestades"
+158 = "A Força Glacial"
+159 = "de Ori and the Blind Forest"
+160 = "O Pacifista Venenoso"
+161 = "A Salvadora da Chama"
+162 = "O Coração da Floresta"
+163 = "O Arsenal Aéreo"
+164 = "de Shovel Knight: Shovel of Hope"
+165 = "O Primeiro de Todos"
 
 //---- Character Names
-169 = "All"
-170 = "Random"
+169 = "Todos"
+170 = "Aleatório"
 171 = "Zetterburn"
 172 = "Orcane"
 173 = "Wrastor"
@@ -201,7 +218,7 @@
 176 = "Maypul"
 177 = "Absa"
 178 = "Etalus"
-179 = "Ori and Sein"
+179 = "Ori e Sein"
 180 = "Ranno"
 181 = "Clairen"
 182 = "Sylvanos"
@@ -216,90 +233,90 @@
 191 = "Custom"
 
 //---- Popup Message OK [200-289]
-200 = "User Sign Out Detected\nPlease sign in with a new user."
-201 = "Set your region to begin playing online."
-202 = "Money Match Accepted"
-203 = "Money Match Declined"
-204 = "`1 Declined the Stock changing options."
-205 = "Opponent Turned off Dev Mode."
-206 = "`1 Turned off Random Stages."
-207 = "- Version Mismatch -\nPlease ensure that the game has been updated to the latest version."
-208 = "Your Opponent Declined the Match."
-209 = "Your Opponent Forfeited."
-210 = "Money Match Accepted"
-211 = "Money Match Declined"
-212 = "- Connection Error -\nYou are signed out."
-213 = "- Connection Error -\nYou do not have the required membership level." //(displayed if you do not have xbox live / nintendo switch online membership)
-214 = "- Connection Error -\nMatchmaking timed out. Try again."
-215 = "- Connection Error -\nYour privacy settings block this."
-216 = "- Connection Error -\nThe match you tried to join is full."
-217 = "- Connection Error -\nYour opponent cancelled the match."
-218 = "- Connection Error -\nThe connection was dropped."
-219 = "- Connection Error -\nThe connection failed." // (generic message for errors)
-220 = "Steam Matchmaking is unavailable."
-221 = "Steam Invites are unavailable."
-222 = "Steam data is unavailable."
-223 = "Steam Overlay is disabled."
-224 = "You need `1 coins\nto unlock this."
-225 = "Complete \nOpen the Gates \nto unlock this."
-226 = "Complete \nThe Ardent Rival \nto unlock this."
-227 = "Purchase \nOri and Sein \nto unlock this."
-228 = "Purchase \nRanno and Clairen \nto unlock this."
-229 = "Purchase \nSylvanos and Elliana \nto unlock this."
-230 = "- Connection Error -\nA desync occurred." // (When online game clients became out of sync during a match)
-231 = "Earn more coins\nto unlock this." // Displayed when you don't have enough coins to purchase said feature
-232 = "- Connection Error -\nNo Opponent was Found.\nTry again."
-233 = "Invalid color code"
-234 = "Complete \nStory Mode \nto unlock this."
-235 = "Congratulations!\nYou have unlocked \nthe Aethereal Gates!"
-236 = "Congratulations!\nYou have unlocked \nThe Endless Abyss!"
-237 = "Congratulations!\nYou have unlocked the \nSecond Custom Color!"
-238 = "Congratulations!\nYou have unlocked \nAbyss Mode!"
-239 = "You have unlocked \n`1's \nAbyss Color!" // Ingame, `1 is replaced with the character name (eg. ZETTERBURN)
-240 = "- Error -\nReplay data is corrupted." // when attempting to view a replay that has corrupted data
-241 = "Purchase \nShovel Knight \nto unlock this." // for Troupple Pond unlock
-242 = "- Message Not Sent -\nThere's no opponent connected."
-243 = "- Message Not Sent -\nMatch not accepted yet."
-244 = "Reach character\nlevel `1 to unlock this."
-245 = "Congratulations! \nYou unlocked the \nRanked Color Set!"
-246 = "`1 Turned off Turbo Mode."
-247 = "Complete \nall Tutorials \nto unlock this."
-248 = "Congratulations! \nYou unlocked \n`1!"
-249 = "- Coming Soon -"
-250 = "New player connected.\nAll match settings were reset."
-251 = "`1 Turned Teams off."
-252 = "`1 Turned off Abyss Mode."
-253 = "Your opponent did not rematch."
-254 = "To begin playing online, set your connection settings."
-255 = "To begin playing online, set your region and connection settings."
-256 = "- Error -\nThis replay contains custom characters not present in your game data."
-257 = "Spectators can't send messages."
-258 = "Ranked invites are not allowed."
-259 = "`1 did not accept new rules."
-260 = "- Error -\nThis replay contains a custom stage not present in your game data."
-261 = "Your Opponent has left."
-262 = "Reach `1's\nmilestone to\nunlock."
-263 = "Invalid PIN."
-264 = "- Connection Error -\nThe connection timed out."
-265 = "You have no synced characters with your opponent."
-266 = "Reach Silver Rank to unlock this."
-267 = "Reach Diamond Rank to unlock this."
-268 = "Match Data not found."
-269 = "`1 did not accept lobby rules."
-270 = "- Warning -\nThis replay contains outdated custom characters and will likely desync. Watch anyway?"
+200 = "Usuário se desconectou\nPor favor se conecte com um novo usuário."
+201 = "Defina sua região para começar a jogar online."
+202 = "Aposta Aceita"
+203 = "Aposta Recusada"
+204 = "`1 recusou as mudanças de configurações de vida."
+205 = "Oponente desligou o Modo Desenvolvedor."
+206 = "`1 desligou Estágios Aleatórios."
+207 = "- Imcompatibilidade de Versão -\nPor favor certifique-se de que o jogo foi atualizado para a versão mais recente."
+208 = "Seu oponente recusou a partida."
+209 = "Seu oponente desistiu."
+210 = "Aposta Aceita"
+211 = "Aposta Recusada"
+212 = "- Erro de Conexão -\nVocê está desconectado."
+213 = "- Erro de Conexão -\nVocê não possui o nível de adesão necessário." //(displayed if you do not have xbox live / nintendo switch online membership)
+214 = "- Erro de Conexão -\nO tempo para o Matchmaking se esgotou. Tente novamente."
+215 = "- Erro de Conexão -\nSuas configurações de privacidade não permitem isso."
+216 = "- Erro de Conexão -\nA Partida que você tentou entrar está cheia."
+217 = "- Erro de Conexão -\nSeu oponente cancelou a partida."
+218 = "- Erro de Conexão -\nA conexão caiu."
+219 = "- Erro de Conexão -\nA conexão falhou." // (generic message for errors)
+220 = "O Matchmaking da Steam está indisponível."
+221 = "Convites da Steam estão indisponíveis."
+222 = "Dados da Steam estão indisponíveis."
+223 = "A Sobreposição da Steam está desabilitada."
+224 = "Você precisa de `1 moedas\npara desbloquear isso."
+225 = "Complete \nAbra os portões \npara desbloquear isso."
+226 = "Complete \nO Ardente \npara desbloquear isso."
+227 = "Compre \nOri e Sein \npara desbloquear isso."
+228 = "Compre \nRanno e Clairen \npara desbloquear isso."
+229 = "Compre \nSylvanos e Elliana \npara desbloquear isso."
+230 = "- Erro de Conexão -\nOcorreu uma dessincronizacão." // (When online game clients became out of sync during a match)
+231 = "Consigag mais moedas\npara desbloquear isso." // Displayed when you don't have enough coins to purchase said feature
+232 = "- Erro de Conexão -\nNenhum oponente foi encontrado.\nTente novamente."
+233 = "Código de Cor inválido"
+234 = "Complete \nModo História \npara desbloquear isso."
+235 = "Parabéns!\nVocê desbloqueou \nos Portões do Aether!"
+236 = "Parabéns!\nVocê desbloqueou \nO Abismo Infinito!"
+237 = "Parabéns!\nVocê desbloqueou the \nA Segunda Cor Customizada!"
+238 = "Parabéns!\nVocê desbloqueou \nModo Abismo!"
+239 = "Você desbloqueou a \ncor do Abismo de `1!" // Ingame, `1 is replaced with the character name (eg. ZETTERBURN)
+240 = "- Erro -\nDados do replay corrompidos." // when attempting to view a replay that has corrupted data
+241 = "Compre \nShovel Knight \npara desbloquear isso." // for Troupple Pond unlock
+242 = "- Mensagem não enviada -\nNão há oponente conectado."
+243 = "- Mensagem não enviada -\nPartida ainda não aceita."
+244 = "Alcance o nível `1\n do personagem para desbloquear isso."
+245 = "Parabéns! \nVocê desbloqueou as \nCores do Competitivo!"
+246 = "`1 desligou o Modo Turbo."
+247 = "Complete \ntodos os tutoriais \npara desbloquear isso."
+248 = "Parabéns! \nVocê desbloqueou \n`1!"
+249 = "- Em Breve -"
+250 = "Novo jogador conectado.\nTodas as configurações foram redefinidas."
+251 = "`1 desligou times."
+252 = "`1 desligou Modo Abismo."
+253 = "Seu oponente não quis uma revanche."
+254 = "Para começar a jogar online, defina suas configurações de conexão."
+255 = "Para começar a jogar online, defina suas configurações de conexão e região."
+256 = "- Erro -\nEste replay contém personagens não presentes nos seus dados do jogo."
+257 = "Espectadores não podem mandar mensagens."
+258 = "Convites para o Competitivo não são permitidos."
+259 = "`1 não aceitou as novas regras."
+260 = "- Erro -\nEste replay contém um estágio não presente nos seus dados de jogo."
+261 = "Seu oponente saiu."
+262 = "Alcance o marco de \n`1 para \ndesbloquear."
+263 = "PIN inválido."
+264 = "- Erro de Conexão -\nO tempo de conexão se esgotou."
+265 = "Você não possui personagens sincronizados com seu oponente."
+266 = "Alcance a classificação Prata para desbloquear."
+267 = "Alcance a classificação Diamante para desbloquear."
+268 = "Dados da partida não encontrados."
+269 = "`1 não aceitou as regras da sala."
+270 = "-  Aviso -\nEste replay contém personagens customizados desatualizados e provavelmente vai se dessincronizar. Assistir mesmo assim?"
 
 //----
-290 = "READY TO FIGHT"
-291 = "CANCEL READY" // cancel the Ready state
-292 = "PRESS" // "press start"
+290 = "PRONTO PARA A LUTA"
+291 = "VOLTAR PARA A SELEÇÃO" // cancel the Ready state
+292 = "PRESSIONE" // "press start"
 293 = ""
 294 = ""
 295 = ""
 296 = ""
 
 //---- Popup Button Choices
-297 = "YES"
-298 = "NO"
+297 = "SIM"
+298 = "NÃO"
 299 = "OK"
 
 //-------------------
@@ -3407,7 +3424,7 @@
 // Buddy Names [4000-4048]
 //-------------------------
 
-4000 = "@12"
+4000 = "Nenhum"
 4001 = "Frostbear Cub"
 4002 = "Sunny"
 4003 = "Kraggling"
