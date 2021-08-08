@@ -667,7 +667,7 @@
 // (567 unavailable!)
 
 598 = "MUDAR CONTROLES" // switch
-599 = "HABILITAR NOTÍCIAS"
+599 = "VER NOTÍCIAS"
 
 //----------------------------
 // Main Menu Variable Strings
