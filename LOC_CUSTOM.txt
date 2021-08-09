@@ -3570,74 +3570,74 @@
 4155 = "There are too many of this thing pending already"
 
 //---- Custom Errors
-4179 = "Error Code"
-4180 = "- Error -\nLocal-only items cannot be played online."
-4181 = "- Error -\nYour opponent doesn't have the same version of this item installed."
-4182 = "- Error -\nItem URL is incorrect."
-4183 = "- Error -\nNo item is loaded."
-4184 = "- Error -\nRemote items cannot be submitted."
-4185 = "- Warning -\nAny files in the uploaded directory which are not supported by Steam Workshop will be automatically deleted. Are you sure you want to upload?"
-4186 = "and `1 more" // used after the incompatible files list, if it's long enough
-4187 = "- Error -\nNo items to play online."
+4179 = "Código de Erro"
+4180 = "- Erro -\nItens apenas locais não podem ser jogados online."
+4181 = "- Erro -\nSeu oponente não tem a mesma versão desse item instalada."
+4182 = "- Erro -\nURL do item incorreta."
+4183 = "- Erro -\nNão há itens carregados."
+4184 = "- Erro -\nItens remotos não podem ser enviados."
+4185 = "- Aviso -\nTodos os arquivos no diretório enviado que não suportados pela Oficina Steam serão automaticamente deletados. Tem certeza que deseja enviar?"
+4186 = "e mais `1" // used after the incompatible files list, if it's long enough
+4187 = "- Erro -\nSem itens para jogar online."
 
 
 //-------------------------
 // Rules Popup [4200-4219]
 //-------------------------
 
-4200 = "STOCK"
-4201 = "TIME"
-4202 = "TEAMS"
-4203 = "TEAM ATTACK"
-4204 = "RANDOM STAGES"
-4205 = "AETHER STAGES"
-4206 = "ABYSS MODE"
+4200 = "VIDAS"
+4201 = "TEMPO"
+4202 = "TIMES"
+4203 = "TIME ATACA"
+4204 = "ESTÁGIOS ALEATÓRIOS"
+4205 = "ESTÁGIOS AETHER"
+4206 = "MODO ABISMO"
 4207 = "TURBO"
-4208 = "WORKSHOP"
-4209 = "TOURNEY MODE"
-4210 = "TOURNEY BEST OF"
-4211 = "PAUSE"
-4212 = "KNOCKBACK SCALING"
-4213 = "DEV MODE"
+4208 = "OFICINA"
+4209 = "MODO TORNEIO"
+4210 = "TORNEIO - MELHOR DE"
+4211 = "PAUSA"
+4212 = "AUMENTO DE KNOCKBACK"
+4213 = "MODO DEV"
 4214 = "TETHERBALL"
-4215 = "BEST OF"
-4216 = "CANCEL"
-4217 = "DECLINE"
-4218 = "SEND"
-4219 = "ACCEPT"
+4215 = "MELHOR DE"
+4216 = "CANCELAR"
+4217 = "RECUSAR"
+4218 = "ENVIAR"
+4219 = "ACEITAR"
 
 // Abyss Mode Options
 4197 = "@4"
 4198 = "VS"
-4199 = "END"
+4199 = "FIM"
 
 //-----------------------------
 // Nintendo Switch [4220-4239]
 //-----------------------------
 
-4220 = "Connecting to online service.\n\nPlease wait..."
-4221 = "- Error -\nFailed to log in to online service."
-4222 = "- Error -\nThere was an error making a connection."
-4223 = "- Error -\nYour online account has been logged out."
-4224 = "Disconnect from online service?"
+4220 = "Conectando-se ao serviço online.\n\nPor favor espere..."
+4221 = "- Erro -\nNão foi possível conectar-se ao serviço online."
+4222 = "- Erro -\nOcorreu um erro durante a conexão."
+4223 = "- Erro -\nSua conta online foi desconectada."
+4224 = "Desconectar-se do serviço online?"
 
 //--------------------------
 // Banner Popup [4300-4309]
 //--------------------------
 
-4300 = "RANK UP!"
-4301 = "MILESTONE REACHED"
-4302 = "ABYSS LEVEL 10!"
+4300 = "SUBIU DE NÍVEL!"
+4301 = "MARCO ALCANÇADO"
+4302 = "ABISMO NÍVEL 10!"
 
 //-------------------------------------------
 // Server List (Nintendo Switch) [4310-4319]
 //-------------------------------------------
 
-4310 = "JOIN"
+4310 = "ENTRAR"
 4311 = "@1"
-4312 = "PUBLIC LOBBIES"
-4313 = "FRIEND LOBBIES"
-4314 = "PLAYERS"
-4315 = "NO LOBBIES FOUND."
-4316 = "FILTER: PUBLIC"
-4317 = "FILTER: FRIENDS"
+4312 = "SALAS PÚBLICAS"
+4313 = "SALAS DE AMIGOS"
+4314 = "JOGADORES"
+4315 = "NENHUMA SALA ENCONTRADA."
+4316 = "FILTRO: PÚBLICO"
+4317 = "FILTRO: AMIGOS"
