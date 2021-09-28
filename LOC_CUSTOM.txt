@@ -743,48 +743,48 @@
 657 = "COMPLETE"
 
 //---- Gamepad room buttons
-658 = "CONTROLS"
-659 = "PROFILE"
-660 = "PLAYTEST"
+658 = "CONFIG."
+659 = "PERFIL"
+660 = "TESTAR"
 
 //--------------------
 
 //---- Replay menu button: sort by
-661 = "SORT BY"
-662 = "RECENT"
-663 = "STARRED" // replays marked as favorites
-664 = "ABC" // alphabetical order
+661 = "ORDENAR POR"
+662 = "RECENTE"
+663 = "FAV." // replays marked as favorites
+664 = "NOME" // alphabetical order
 
 //---- Replay menu button: auto save
-665 = "AUTO SAVE"
-666 = "ALL"
+665 = "SALVAR AUTO."
+666 = "TODOS"
 667 = "ONLINE"
 668 = "LOCAL"
-669 = "OFF"
+669 = "NÃO"
 
 //---- Replay menu
-670 = "INCOMPATIBLE" // replay outdated
-671 = "DATE" // starting here is stage data inside the replay file
-672 = "MATCH TYPE" //local, friendly online, ranked, etc
-673 = "MATCH LENGTH" //duration of the match
-674 = "STOCK" //what the stocks setting was
-675 = "TIME" //what the time setting was
-676 = "STAGE" //which stage you played on
-677 = "Local Match"
-678 = "Local Team Match"
+670 = "INCOMPATÍVEL" // replay outdated
+671 = "DATA" // starting here is stage data inside the replay file
+672 = "TIPO DE PARTIDA" //local, friendly online, ranked, etc
+673 = "DURAÇÃO" //duration of the match
+674 = "VIDAS" //what the stocks setting was
+675 = "TEMPO" //what the time setting was
+676 = "ESTÁGIO" //which stage you played on
+677 = "Partida Local"
+678 = "Partida Local c/ Times"
 679 = "Online Casual"
-680 = "Friendly Match"
-681 = "Ranked Match"
-682 = "No description"
+680 = "Partida entre Amigos"
+681 = "Partida Ranqueada"
+682 = "Sem descrição"
 683 = "Replays" // x/128 Replays
-684 = "UNSTARRED REPLAYS WILL BE" // (1/2)
-685 = "OVERWRITTEN WHEN SLOTS ARE FULL." // (2/2)
-686 = "WATCH"
-687 = "EDIT NAME"
-688 = "EDIT DESCRIPTION"
-689 = "DELETE"
-690 = "(CANNOT WATCH)"
-691 = "EXPORT VIDEO"
+684 = "REPLAYS NÃO FAVORITADOS SERÃO" // (1/2)
+685 = "SOBRESCRITOS QUANDO NÃO HOUVER ESPAÇO." // (2/2)
+686 = "ASSISTIR"
+687 = "EDITAR NOME"
+688 = "EDITAR DESCRIÇÃO"
+689 = "EXCLUIR"
+690 = "(IMPOSSÍVEL ASSISTIR)"
+691 = "EXPORTAR VÍDEO"
 
 //---- Sound Test display
 694 = "No Sound"
@@ -946,138 +946,138 @@
 849 = "LAW"
 
 //---- HUD: Frame Advance
-850 = "Enable Frame Advance"
-851 = "Quit"
-852 = "Next Frame"
-853 = "TAUNT: Reset Timer"
-854 = "TIMER"
+850 = "Habilitar Frame Advance"
+851 = "Sair"
+852 = "Próximo Frame"
+853 = "PROVOCAR: Resetar temporizador"
+854 = "TEMPORIZADOR"
 
 //---- HUD: Misc
-855 = "OVERTIME"
-856 = "HOLD TO PAUSE";
-857 = "HOLD TO QUIT";
-858 = "TOTAL TIME" // story mode
-859 = "BEST RECORD" // story mode
-860 = "STAGE `1" // story mode
-861 = "SCORE" // credits scene
-862 = "LEVEL UP!" // abyss mode
-863 = "DEV MODE"
-864 = "DEVELOPER MODE UPDATED - PRESS F3 TO RELOAD"
-865 = "TURBO MODE"
+855 = "TEMPO EXTRA"
+856 = "SEGURE PARA PAUSAR";
+857 = "SEGURE PARA SAIR";
+858 = "TEMPO TOTAL" // story mode
+859 = "TEMPO RECORDE" // story mode
+860 = "ESTÁGIO `1" // story mode
+861 = "PONTOS" // credits scene
+862 = "SUBIU DE NÍVEL!" // abyss mode
+863 = "MODO DESENVOLVEDOR"
+864 = "MODO DESENVOLVEDOR ATUALIZADO - PRESSIONE F3 PARA RECARREGAR"
+865 = "MODO TURBO"
 
 //---- Abyss Rune Legend
-881 = "Object mod"
-882 = "Ranged mod"
-883 = "Hit mod"
-884 = "Ability boost"
-885 = "Modifies a static object left behind after an attack."
-886 = "Modifies a projectile attack."
-887 = "Modifies a direct physical interaction with an opponent."
-888 = "Powers up a character attribute or action."
-889 = "RUNE\nTYPES"
+881 = "Mod. de objeto"
+882 = "Mod. de alcançe"
+883 = "Mod. de acerto"
+884 = "Melhora de habilidade"
+885 = "Modifica um objeto estático deixado após um ataque."
+886 = "Modifica um ataque de projétil."
+887 = "Modifica uma interação física direta com o oponente."
+888 = "Melhora um atributo ou ataque de um personagem."
+889 = "TIPOS\nDE RUNA"
 890 = ""
 
 //---- Story Cutscene UI
-891 = "Press [`1] to quit"
-892 = "Press [`1] to skip"
-893 = "NEXT PAGE"
-894 = "CONTINUE"
-895 = "TO BE CONTINUED..."
-896 = "PROCEED TO STAGE `1"
-897 = "PROCEED TO FINAL STAGE"
+891 = "Pressione [`1] para sair"
+892 = "Pressione [`1] para pular"
+893 = "PRÓXIMA PÁGINA"
+894 = "CONTINUAR"
+895 = "CONTINUA..."
+896 = "CONTINUAR PARA O ESTÁGIO `1"
+897 = "CONTINUAR PARA O ESTÁGIO FINAL"
 898 = "RIVAL"
 
 //---- VS Result Screen
-900 = "STAGE `1 CLEARED!"
-901 = "SAVE REPLAY"
-902 = "REPLAY SAVED"
-903 = "WAVE `1 REACHED!"
-904 = "THIS RUN: `1 WAVE"
-905 = "RED TEAM"
-906 = "BLUE TEAM"
-907 = "HOME TEAM"
-908 = "AWAY TEAM"
-909 = "`1 WINS!"
-910 = "`1 WIN!" // used for Ori and Sein
+900 = "ESTÁGIO `1 COMPLETO!"
+901 = "SALVAR REPLAY"
+902 = "REPLAY SALVO"
+903 = "ONDA `1 ALCANÇADA!"
+904 = "ESTA PARTIDA: `1 ONDA"
+905 = "TIME VERMELHO"
+906 = "TIME AZUL"
+907 = "TIME CASA"
+908 = "TIME FORA"
+909 = "`1 VENÇE!"
+910 = "`1 VENÇEM!" // used for Ori and Sein
 
 //---- VS Result Boxes
-911 = "Kills"
-912 = "Deaths"
-913 = "Suicides"
-914 = "DMG Given"
-915 = "DMG Taken"
+911 = "Nocautes"
+912 = "Mortes"
+913 = "Suicídios"
+914 = "Dano Causado"
+915 = "Dano Recebido"
 916 = "Parries"
-917 = "Longest Combo"
-918 = "Accuracy"
-919 = "HOLD TO EXIT"
+917 = "Combo mais Longo"
+918 = "Precisão"
+919 = "SEGURE PARA SAIR"
 920 = ""
 
 //---- My Stats
 921 = "LOCAL"
 922 = "ONLINE"
-923 = "RANKED"
-924 = "MATCHES"
-925 = "WINS"
-926 = "LOSSES"
-927 = "WIN PERCENT"
+923 = "RANQUEADA"
+924 = "PARTIDAS"
+925 = "VITÓRIAS"
+926 = "DERROTAS"
+927 = "% DE VITÓRIAS"
 928 = "@911"
 929 = "@912"
 930 = "@913"
-931 = "DAMAGE GIVEN"
-932 = "DAMAGE TAKEN"
+931 = "DANO CAUSADO"
+932 = "DANO RECEBIDO"
 933 = "@916"
 934 = "@918"
-935 = "PLAYTIME"
+935 = "TEMPO DE JOGO"
 
 //---- Team Buttons
-936 = "RED"
-937 = "BLUE"
+936 = "VERM."
+937 = "AZUL"
 938 = "HMN"
 939 = "CPU"
-940 = "OFF"
+940 = "DESL."
 
 //---- Stage Select texts
-941 = "SHOW DATA"
-942 = "HIDE DATA"
-943 = "STRIKE STAGE"
-944 = "TOP BLASTZONE"
-945 = "BOTTOM BLASTZONE"
-946 = "SIDE BLASTZONE"
-947 = "GROUND WIDTH"
-948 = "Strike a Stage!"
-949 = "Ban Three Stages!"
-950 = "Pick a Stage!"
-951 = "`1 is Striking..."
-952 = "`1 is Banning..."
-953 = "`1 is Picking..."
-954 = "ACH|EVEMENT"
-955 = "SMALLEST"
-956 = "LARGEST"
-957 = "SMALL"
-958 = "LARGE"
-959 = "AVERAGE"
-960 = "OPEN THE\nGATES"
-961 = "ARDENT\nRIVAL"
-962 = "COUNTERPICK"
-963 = "Ban a Stage!"
-964 = "MAIN STAGES"
-965 = "CUSTOM STAGES"
-966 = "by"
+941 = "VER DADOS"
+942 = "VER DADOS"
+943 = "BLOQUEAR ESTÁGIO"
+944 = "BLASTZONE DE CIMA"
+945 = "BLASTZONE DE BAIXO"
+946 = "BLASTZONE DOS LADOS"
+947 = "LARGURA DO CHÃO"
+948 = "Bloqueie um estágio!"
+949 = "Bana três estágios!"
+950 = "Escolha um estágio!"
+951 = "`1 está bloqueando..."
+952 = "`1 está banindo..."
+953 = "`1 está escolhendo..."
+954 = "CONQUISTA"
+955 = "MENOR"
+956 = "MAIOR"
+957 = "PEQUENO"
+958 = "GRANDE"
+959 = "MÉDIO"
+960 = "ABRA OS\nPORTÕES"
+961 = "RIVAL\nARDENTE"
+962 = "BLOQUEADO"
+963 = "Bana um estágio!"
+964 = "ESTÁGIOS PRINCIPAIS"
+965 = "ESTÁGIOS CUSTOMIZADOS"
+966 = "por"
 967 = "" // reserved
-968 = "BAN STAGE"
+968 = "BANIR ESTÁGIO"
 
 //---- Popups
-970 = "EDIT REPLAY NAME"
-971 = "EDIT REPLAY DESCRIPTION"
-972 = "IMPORT COLOR CODE"
-973 = "ENTER LOBBY NAME"
-974 = "`1'S LOBBY" // default lobby name
+970 = "EDITAR NOME DO REPLAY"
+971 = "EDITAR DESCRIÇÃO DO REPLAY"
+972 = "IMPORTAR CÓDIGO DE COR"
+973 = "INSERIR NOME DA SALA"
+974 = "SALA DE `1" // default lobby name
 
 //---- Story UI
-990 = "AETHER TALES - `1"
-991 = "NEW STORY AVAILABLE!"
-992 = "SKIP STORY"
-993 = "VIEW STORY"
+990 = "CONTOS DO AETHER  - `1"
+991 = "NOVA HISTÓRIA DISPONÍVEL!"
+992 = "PULAR HISTÓRIA"
+993 = "VER HISTÓRIA"
 994 = ""
 995 = ""
 996 = ""
@@ -1339,26 +1339,26 @@
 //--------------------
 
 //---- Story Mode UI
-1480 = "STAGE TIME"
-1481 = "TOTAL TIME"
-1482 = "CHAPTER CLEARED!"
-1483 = "TOTAL CLEAR TIME"
-1484 = "A NEW RECORD!"
-1485 = "STORY MODE CLEARED!"
-1486 = "STORY TOTAL TIME"
-1487 = "GAME  OVER"
-1488 = "CONTINUE"
-1489 = "GIVE UP"
-1490 = "Journey to `1" // map
-1491 = "The Final Battle" // map
+1480 = "TEMPO NO ESTÁGIO"
+1481 = "TEMPO TOTAL"
+1482 = "CAPÍTULO COMPLETO!"
+1483 = "TEMPO TOTAL"
+1484 = "NOVO RECORDE!"
+1485 = "MODO HISTÓRIA COMPLETO!"
+1486 = "TEMPO TOTAL"
+1487 = "FIM DE JOGO"
+1488 = "CONTINUAR"
+1489 = "DESISTIR"
+1490 = "Jornada para `1" // map
+1491 = "A Batalha Final" // map
 1492 = "Final" // map (short form)
-1493 = "TOTAL TIME `1" // +1:00
-1494 = "LET'S GO!"
-1495 = "SELECT FIGHTER"
+1493 = "TEMPO TOTAL `1" // +1:00
+1494 = "VAMOS LÁ!"
+1495 = "SELECIONE UM PERSONAGEM"
 1496 = "CUTSCENES"
 1497 = "CO-OP" // "CO-OP: Press Start"
-1498 = "`1 HAS JOINED"
-1499 = "STAGE `1 TIME"
+1498 = "`1 ENTROU"
+1499 = "ESTÁGIO `1 - TEMPO"
 
 //-----------------------------------------
 // Tutorial Input Instructions [1500-1899]
@@ -1753,86 +1753,86 @@
 //----------------------------------
 
 //---- Online chat pg1 (greetings)
-1900 = "Hello!"
-1901 = "Let's go!"
-1902 = "Good Luck!"
-1903 = "Go easy on me!"
-1904 = "Ready when you are!"
-1905 = "I'll give it my all!"
-1906 = "I'm feeling nervous..."
-1907 = "This will be easy!"
+1900 = "Olá!"
+1901 = "Vamos lá!"
+1902 = "Boa sorte!"
+1903 = "Pega leve comigo!"
+1904 = "Pronto quando estiver!"
+1905 = "Vou dar meu melhor!"
+1906 = "Tô ficando nervoso..."
+1907 = "Isso vai ser fácil!"
 
 //---- Online chat pg2 (responses)
 1908 = "OK!"
-1909 = "Thank you!"
-1910 = "Good game!"
-1911 = "Let's play another round!"
-1912 = "Awesome!"
-1913 = "Sorry!"
-1914 = "Ouch..."
-1915 = "I'll get you next time!"
+1909 = "Obrigado!"
+1910 = "Bom jogo!"
+1911 = "Vamos jogar mais uma!"
+1912 = "Legal!"
+1913 = "Desculpa!"
+1914 = "Ai..."
+1915 = "Eu te pego na próxima!"
 
 //---- Online chat pg3 (misc)
-1916 = "Give me one second."
-1917 = "Let's do a money match."
-1918 = "I'm done playing now."
-1919 = "I forgot to set my controls."
-1920 = "You got lucky!"
-1921 = "This is my last game."
-1922 = "See ya later!"
-1923 = "I'm using Gyro Controls!"
+1916 = "Espera um pouco."
+1917 = "Vamos fazer uma aposta."
+1918 = "Vou parar de jogar agora."
+1919 = "Não configurei meus controles."
+1920 = "Você teve\nsorte!"
+1921 = "Essa é minha última partida."
+1922 = "Te vejo depois!"
+1923 = "Eu tô usando Gyro Controls!"
 
 //---- Online chat pg4 (chars 1)
 
-1924 = "I'm getting heated." // Zetterburn Taunt
-1925 = "That was a big slip-up." // Orcane Taunt
-1926 = "That was a breeze!" // Wrastor Taunt
-1927 = "You got rocked!" // Kragg Taunt
+1924 = "Tá ficando quente." // Zetterburn Taunt
+1925 = "Escorregou feio." // Orcane Taunt
+1926 = "Que brisa foi essa?" // Wrastor Taunt
+1927 = "You got rocked!" // Kragg Taunt (!) nao sei oq botar aqui
 
-1928 = "I'm on a hot streak!" // Zetterburn Situational
-1929 = "Splash ya later!" // Orcane Situational
-1930 = "Let's team up!" // Wrastor Situational
-1931 = "I'm unphased." // Kragg Situational
+1928 = "Vem quente que eu tô fervendo!" // Zetterburn Situational
+1929 = "Te (m)olho depois!" // Orcane Situational
+1930 = "Vamos fazer um time!" // Wrastor Situational
+1931 = "Eu tô calmo." // Kragg Situational
 
 //---- Online chat pg5 (chars 2)
 
-1932 = "You got smoked." // Forsburn Taunt
-1933 = "Lily is better than you." // Maypul Taunt
-1934 = "I trained for this." // Absa Taunt
-1935 = "You're on thin ice." // Etalus Taunt
+1932 = "Você foi defumado." // Forsburn Taunt
+1933 = "Até a Lily é melhor que você." // Maypul Taunt
+1934 = "Eu treinei para isso." // Absa Taunt
+1935 = "Você tá em gelo fino." // Etalus Taunt
 
-1936 = "I defeated myself..." // Forsburn Situational
-1937 = "Let's wrap this up." // Maypul Situational
-1938 = "That was shocking." // Absa Situational
-1939 = "Freeze. I'll be right back." // Etalus Situational
+1936 = "Eu derrotei a mim mesmo..." // Forsburn Situational
+1937 = "Deixa de enrolar e vamos." // Maypul Situational
+1938 = "Isso foi chocante." // Absa Situational
+1939 = "Fica frio. Eu já volto." // Etalus Situational
 
 //---- Online chat pg6 (chars 3)
 
-1940 = "You need a spirit guide." // Ori Taunt
+1940 = "Você precisa de um guia espiritual." // Ori Taunt
 1941 = "Time for some paciFISTS." // Ranno Taunt
-1942 = "Your future looks bleak." // Clairen Taunt
-1943 = "I let you win." // Sylvanos Taunt
+1942 = "Seu futuro parece sombrio." // Clairen Taunt
+1943 = "Eu deixo você ganhar." // Sylvanos Taunt
 
-1944 = "Lighten up!" // Ori Situational
-1945 = "Peace out." // Ranno Situational
-1946 = "My presence is a present." // Clairen Situational
-1947 = "Awwwooooooo!" // Sylvanos Situational
+1944 = "Hora de acender!" // Ori Situational
+1945 = "Fica na paz." // Ranno Situational
+1946 = "Minha presença é um presente." // Clairen Situational
+1947 = "Auuuuuuuuuu!\n(furry.)" // Sylvanos Situational
 
 //---- Online chat pg7 (chars 4)
 
-1948 = "I'm steaming mad!" // Elliana Taunt
-1949 = "Salt in Spades." // Shovel Knight Taunt
-1950 = "I can beat you with anyone." // Random Taunt
+1948 = "Tô a todo vapor!" // Elliana Taunt
+1949 = "Alguém me pá-ra!" // Shovel Knight Taunt
+1950 = "Eu te derroto com qualquer um." // Random Taunt
 1951 = ""
 
-1952 = "I blame my controls." // Elliana Situational
+1952 = "É culpa dos meus controles." // Elliana Situational
 1953 = "Can you dig it?" // Shovel Knight Situational
-1954 = "LOL. I was playing random." // Random Situational
+1954 = "KKKKKKK. Tava de aleatório." // Random Situational
 1955 = ""
 
 //---- Extra
 
-1999 = "I'm using Joy-Con\nControls!"
+1999 = "Tô usando controles\nde Joy-Cons!"
 
 //-------------------------------------
 // Abyss Rune Descriptions [2000-2209]
@@ -2123,36 +2123,36 @@
 2341 = "If Shovel Knight fully charges his Up Strong, he launches a large gem-filled dirt block upward."
 
 //---- Stage Names [2400-2459]
-2400 = "Locked"
-2401 = "Random"
-2402 = "Fire Capital"
-2403 = "Air Armada"
-2404 = "The Rock Wall"
-2405 = "Merchant Port"
-2406 = "Treetop Lodge"
-2407 = "Blazing Hideout"
-2408 = "Tower of Heaven"
-2409 = "Tempest Peak"
-2410 = "Frozen Fortress"
-2411 = "Aethereal Gates"
-2412 = "The Endless Abyss"
+2400 = "Bloqueado"
+2401 = "Aleatório"
+2402 = "Capital do Fogo"
+2403 = "Armada Aérea"
+2404 = "Muralha de Pedra"
+2405 = "Porto Mercante"
+2406 = "Pousada nas Folhas"
+2407 = "Esconderijo em Chamas"
+2408 = "Torre dos Ceús"
+2409 = "Pico da Tempestade"
+2410 = "Fortaleza Congelada"
+2411 = "Portões do Aether"
+2412 = "O Abismo Infinito"
 2413 = ""
 2414 = "The CEO Ring"
-2415 = "The Spirit Tree"
-2416 = "The Tutorial Grid X"
-2417 = "Neo Fire Capital"
-2418 = "The Swampy Estuary"
-2419 = "The Forest Floor"
+2415 = "Árvore dos Espiritos"
+2416 = "Sala de Tutorial X"
+2417 = "Nova Capital do Fogo"
+2418 = "O Estuário Pantanoso"
+2419 = "Solo da Floresta"
 2420 = "Julesvale"
-2421 = "Troupple Pond"
-2422 = "Practice Room"
-2423 = "Aether High"
+2421 = "Lagoa Truçã"	// (!) mano eu nunca joguei shovel knight eu nao sei se o nome desse mapa ta certo acabei de procurar
+2422 = "Sala de Treino"
+2423 = "Colégio Aether"
 2424 = "Pridemoor Keep"
-2425 = "Frozen Gates"
-2426 = "The Tutorial Grid"
-2427 = "The RoA Ring"
+2425 = "Portões Congelados"
+2426 = "Sala de Tutorial"
+2427 = "O Ringue RoA"
 2428 = ""
-2429 = "Tetherball Court"
+2429 = "Quadra de Tetherball"
 2430 = "@2400"
 2431 = "@2401"
 2432 = "@2402"
@@ -2185,82 +2185,82 @@
 2459 = "@2429"
 
 //---- CSS Options [2500-2549]
-2500 = "USE DEFAULT KEYBOARD CONTROLS?"
-2501 = "PLAYTEST"
-2502 = "CUSTOM CONTROLS"
-2503 = "ATTACK"
-2504 = "SPECIAL"
-2505 = "JUMP"
+2500 = "USAR CONTROLES PADRÕES DE TECLADO?"
+2501 = "TESTAR"
+2502 = "CONTROLES CUSTOMIZADOS"
+2503 = "ATAQUE"
+2504 = "ESPECIAL"
+2505 = "PULO"
 2506 = "STRONG"
-2507 = "DODGE"
-2508 = "TAP JUMP"
-2509 = "STRONG ATTACK"
-2510 = "RUMBLE" // PC & Switch
-2511 = "VIBRATION" // Other platforms
-2512 = "CONTROLS"
-2513 = "TAUNT"
-2514 = "FULLHOP"
-2515 = "SHORTHOP"
-2516 = "WALK"
-2517 = "RUN"
-2518 = "\n(Press [`1] to cancel)" // copy of 2521 without the multiple button text
-2519 = "SENSITIVITY"
-2520 = "PRESS BUTTON FOR"
-2521 = "*Hold to add multiple\n(Press [`1] to cancel)"
-2522 = "CHOOSE PROFILE"
-2523 = "NAME"
-2524 = "POINTS"
-2525 = "PURCHASE?"
+2507 = "DESVIO"
+2508 = "PULO C/ ANLG."
+2509 = "STRONG C/ ANLG."
+2510 = "VIBRAÇÃO" // PC & Switch
+2511 = "VIBRAÇÃO" // Other platforms
+2512 = "CONTROLES"
+2513 = "PROVOCAR"
+2514 = "PULO ALTO"
+2515 = "PULO BAIXO"
+2516 = "ANDAR"
+2517 = "CORRER"
+2518 = "\n(Pressione [`1] para cancelar)" // copy of 2521 without the multiple button text
+2519 = "SENSIBILIDADE"
+2520 = "PRESSIONE BOTÃO PARA"
+2521 = "*Segure para adicionar outros\n(Pressione [`1] para cancelar)"
+2522 = "ESCOLHA UM PERFIL"
+2523 = "NOME"
+2524 = "PONTOS"
+2525 = "COMPRAR?"
 2526 = "@297"
 2527 = "@298"
-2528 = "[`1]: CPU   [`2]: Quit"
-2529 = "Press [`1] to add CPU."
-2530 = "Press [`1] to quit."
-2531 = "DELETE THIS PROFILE?"
-2532 = "*To save custom controls, create a player profile."
-2533 = "UP"
-2534 = "DOWN"
-2535 = "LEFT"
-2536 = "RIGHT"
-2537 = "DBL TAP"
-2538 = "AUTO RUN"
+2528 = "[`1]: CPU   [`2]: Sair"
+2529 = "Pressione [`1] para adicionar CPU."
+2530 = "Pressione [`1] para sair."
+2531 = "DELETAR ESTE PERFIL?"
+2532 = "*Para salvar controles customizados, por favor crie um novo perfil."
+2533 = "CIMA"
+2534 = "BAIXO"
+2535 = "ESQUERDA"
+2536 = "DIREITA"
+2537 = "TOQUE DUP."
+2538 = "CORRER AUTO."
 2539 = "MOUSE"
-2540 = "L. CLICK"
-2541 = "R. CLICK"
-2542 = "WHEEL"
+2540 = "CLIQUE ESQ."
+2541 = "CLIQUE DIR."
+2542 = "RODA" // (?) ahn?
 2543 = "DEL"
-2544 = "TESTING..."
+2544 = "TESTANDO..."
 2545 = "@2538"
 2546 = "DOUBLE TAP"
-2547 = "DEFAULT"
+2547 = "PADRÃO"
 2548 = "@2539"
-2549 = "CHOOSE A BUDDY"
+2549 = "ESCOLHA UM BICHINHO"
 
 //---- CSS Options shortened (width cannot be longer than "SPECIAL") [2550-2569]
-2550 = "ACTION" //only used to display DPAD setting in custom controls
-2551 = "WALK"
-2552 = "RUN"
-2553 = "ATTACK"
-2554 = "SPECIAL"
-2555 = "JUMP"
+2550 = "AÇÃO" //only used to display DPAD setting in custom controls
+2551 = "ANDAR"
+2552 = "CORRER"
+2553 = "ATAQUE"
+2554 = "ESPECIAL"
+2555 = "PULO"
 2556 = "STRONG"
-2557 = "DODGE"
+2557 = "DESVIO"
 2558 = ""
-2559 = "OFF"
+2559 = "DESLIG."
 2560 = ""
 2561 = ""
 2562 = ""
-2563 = "TAUNT"
-2564 = "FULLHOP"
-2565 = "SHORTHOP"
+2563 = "PROVOCAR"
+2564 = "PULO ALTO"
+2565 = "PULO BAIXO"
 
 //--- CSS Input Options [2780-2789]
-2780 = "INPUT SETTINGS"
+2780 = "CONFIGS. DE INPUT
 2781 = "AUTO"
-2782 = "INPUT BUFFER"
-2783 = "DASH BUFFER"
-2784 = "WIFI MODE"
-2785 = "MAX ROLLBACK"
+2782 = "BUFFER DE INPUT"
+2783 = "BUFFER DE DASH"
+2784 = "MODO WIFI"
+2785 = "ROLLBACK MÁXIMO"
 //----
 
 //---- Online Ranking Brackets
@@ -2272,101 +2272,101 @@
 2575 = "Master"
 
 //---- Online Reward Names
-2579 = "a Milestone Reward"
-2580 = "Silver Emote"
-2581 = "Gold Skin"
-2582 = "Platinum Icon"
-2583 = "Diamond Emote"
-2584 = "Master Customs"
+2579 = "uma Recompensa"
+2580 = "Emote Prata"
+2581 = "Skin Dourada"
+2582 = "Ícone de Platina"
+2583 = "Emote de Diamante"
+2584 = "Customs. de Mestre"
 
 //---- CSS Spectators Sub-Menu
-2585 = "SPECTATE"
-2586 = "FIGHT"
+2585 = "ASSISTIR"
+2586 = "LUTAR"
 
 //---- Menu Header Text [2600-2699]
-2600 = "MAIN"
-2601 = "MENU"
+2600 = "MENU"
+2601 = "PRINCIPAL"
 //
-2602 = "LOCAL"
-2603 = "MENU"
+2602 = "MENU"
+2603 = "LOCAL"
 //
-2604 = "ONLINE"
-2605 = "MENU"
+2604 = "MENU"
+2605 = "ONLINE"
 //
-2606 = "OPTIONS"
-2607 = "MENU"
+2606 = "MENU"
+2607 = "OPÇÕES"
 //
-2608 = "EXTRAS"
-2609 = "MENU"
+2608 = "MENU"
+2609 = "EXTRAS"
 //
-2610 = "MY"
-2611 = "STATS"
+2610 = "MINHAS"
+2611 = "ESTATÍSTICAS"
 //
-2612 = "RANKED"
-2613 = "MODE"
+2612 = "MODO"
+2613 = "RANQUEADA"
 //
-2614 = "LEADERBOARD"
+2614 = "PLACAR"
 2615 = ""
 //
-2616 = "STAFF"
-2617 = "ROLL"
+2616 = "CRÉDITOS"
+2617 = ""
 //
-2618 = "SOUND"
-2619 = "TEST"
+2618 = "MÚSICAS"
+2619 = ""
 //
-2620 = "REPLAY"
-2621 = "MENU"
+2620 = "MENU"
+2621 = "REPLAYS"
 //
-2622 = "CUSTOM"
-2623 = "COLORS"
+2622 = "CORES"
+2623 = "CUSTOMIZADAS"
 //
-2624 = "CONTROLLERS"
-2625 = "AND PROFILES"
+2624 = "CONTROLES"
+2625 = "E PERFIS"
 //
-2626 = "KEYBOARD"
-2627 = "CONTROLS"
+2626 = "CONTROLES"
+2627 = "DE TECLADO"
 //
-2628 = "GAMEPLAY" // sub-section titles for keyboard controls screen
-2629 = "MENU"
+2628 = "MENU" // sub-section titles for keyboard controls screen
+2629 = "GAMEPLAY"
 //
-2630 = "ONLINE"
-2631 = "MODE"
+2630 = "MODO"
+2631 = "ONLINE"
 //
 2632 = "ONLINE"
-2633 = "TEAMS"
+2633 = "COM TIMES"
 //
-2634 = "TOURNEY"
-2635 = "MODE"
+2634 = "MODO"
+2635 = "TORNEIO"
 //
-2636 = "PRACTICE"
-2637 = "MODE"
+2636 = "MODO"
+2637 = "PRÁTICA"
 //
-2638 = "STEAM"
-2639 = "WORKSHOP"
+2638 = "OFICINA"
+2639 = "STEAM"
 //
-2640 = "VERSUS"
-2641 = "MODE"
+2640 = "MODO"
+2641 = "VERSUS"
 //
-2642 = "ABYSS"
-2643 = "ENDLESS"
+2642 = "ABISMO"
+2643 = "INFINITO"
 //
-2644 = "ABYSS"
+2644 = "ABISMO"
 2645 = "VERSUS"
 //
-2646 = "STORY"
-2647 = "MODE"
+2646 = "MODO"
+2647 = "HISTÓRIA"
 //
-2648 = "REPLAY"
-2649 = "MODE"
+2648 = "MODO"
+2649 = "REPLAY"
 //
 2650 = "TURBO"
 2651 = "TURBO" // Used for adding "TURBO" to main menu texts
 //
-2652 = "MILESTONES"
+2652 = "MARCOS"
 2653 = ""
 //
-2654 = "CUSTOM"
-2655 = "STAGES"
+2654 = "ESTÁGIOS"
+2655 = "CUSTOMIZADOS"
 //
 2656 = "TETHERBALL"
 2657 = "VERSUS"
@@ -2469,12 +2469,12 @@
 // Keyboard and Gamepad [2750-2769]
 //----------------------------------
 
-2750 = "SPACE"
-2751 = "LEFT"
-2752 = "RIGHT"
-2753 = "UP"
-2754 = "DOWN"
-2755 = "ACCEPT"
+2750 = "ESPAÇO"
+2751 = "ESQUERDA"
+2752 = "DIREITA"
+2753 = "CIMA"
+2754 = "BAIXO"
+2755 = "ACEITAR"
 2756 = "MENU Y"
 2757 = "MENU LB"
 2758 = "MENU RB"
@@ -2482,9 +2482,9 @@
 2760 = "RS RIGHT"
 2761 = "RS UP"
 2762 = "RS DOWN"
-2763 = "VIEW"
+2763 = "VER"
 2764 = "[TOUCHPAD]"
-2765 = "D-PAD DOWN"
+2765 = "D-PAD PARA BAIXO"
 
 //-----------------------------
 // CSS Match Types [2770-2779]
@@ -3413,11 +3413,11 @@
 // Text Entry Popup [3900-3909]
 //------------------------------
 
-3900 = "CANCEL"
-3901 = "SAVE"
-3902 = "COPY ALL"
-3903 = "PASTE"
-3904 = "COPIED!"
+3900 = "CANCELAR"
+3901 = "SALVAR"
+3902 = "COPIAR TUDO"
+3903 = "COLAR"
+3904 = "COPIADO!"
 
 //---------------------------
 // Keyboard Keys [3910-3929]
@@ -3460,114 +3460,117 @@
 
 
 //---- STEAM API Errors (https://partner.steamgames.com/doc/api/steam_api#EResult)
-4049 = "- Steam Workshop Error -" // Header qualifier before the error message
-//
-4050 = "Generic failure."
-4051 = "Your Steam client doesn't have a connection to the back-end."
-4052 = "Password/ticket is invalid."
-4053 = "The user is logged in elsewhere."
-4054 = "Protocol version is incorrect."
-4055 = "A parameter is incorrect."
-4056 = "File was not found."
-4057 = "Called method is busy - action not taken."
-4058 = "Called object was in an invalid state."
-4059 = "The name was invalid."
-4060 = "The email was invalid."
-4061 = "The name is not unique."
-4062 = "Access is denied."
-4063 = "Operation timed out."
-4064 = "The user is VAC2 banned."
-4065 = "Account not found."
-4066 = "The Steam ID was invalid."
-4067 = "The requested service is currently unavailable."
-4068 = "The user is not logged on."
-4069 = "Request is pending, it may be in process or waiting on third party."
-4070 = "Encryption or Decryption failed."
-4071 = "Insufficient privilege."
-4072 = "Too much of a good thing."
-4073 = "Access has been revoked (used for revoked guest passes.)"
-4074 = "License/Guest pass the user is trying to access is expired."
-4075 = "Guest pass has already been redeemed by account, cannot be used again."
-4076 = "The request is a duplicate and the action has already occurred in the past, ignored this time."
-4077 = "All the games in this guest pass redemption request are already owned by the user."
-4078 = "IP address not found."
-4079 = "Failed to write change to the data store."
-4080 = "Failed to acquire access lock for this operation."
-4081 = "The logon session has been replaced."
-4082 = "Failed to connect."
-4083 = "The authentication handshake has failed."
-4084 = "There has been a generic IO failure."
-4085 = "The remote server has disconnected."
-4086 = "Failed to find the shopping cart requested."
-4087 = "A user blocked the action."
-4088 = "The target is ignoring sender."
-4089 = "Nothing matching the request found."
-4090 = "The account is disabled."
-4091 = "This service is not accepting content changes right now."
-4092 = "Account doesn't have value, so this feature isn't available."
-4093 = "Allowed to take this action, but only because requester is admin."
-4094 = "A Version mismatch in content transmitted within the Steam protocol."
-4095 = "The current CM can't service the user making a request, user should try another."
-4096 = "You are already logged in elsewhere, this cached credential login has failed."
-4097 = "The user is logged in elsewhere. (Use k_EResultLoggedInElsewhere instead!)"
-4098 = "Long running operation has suspended/paused. (eg. content download.)"
-4099 = "Operation has been canceled, typically by user. (eg. a content download.)"
-4100 = "Operation canceled because data is ill formed or unrecoverable."
-4101 = "Operation canceled - not enough disk space."
-4102 = "The remote or IPC call has failed."
-4103 = "Password could not be verified as it's unset server side."
-4104 = "External account (PSN, Facebook...) is not linked to a Steam account."
-4105 = "PSN ticket was invalid."
-4106 = "External account (PSN, Facebook...) is already linked to some other account, must explicitly request to replace/delete the link first."
-4107 = "The sync cannot resume due to a conflict between the local and remote files."
-4108 = "The requested new password is not allowed."
-4109 = "New value is the same as the old one. This is used for secret question and answer."
-4110 = "Account login denied due to 2nd factor authentication failure."
-4111 = "The requested new password is not legal."
-4112 = "Account login denied due to auth code invalid."
-4113 = "Account login denied due to 2nd factor auth failure - and no mail has been sent."
-4114 = "The users hardware does not support Intel's Identity Protection Technology (IPT)."
-4115 = "Intel's Identity Protection Technology (IPT) has failed to initialize."
-4116 = "Operation failed due to parental control restrictions for current user."
-4117 = "Facebook query returned an error."
-4118 = "Account login denied due to an expired auth code."
-4119 = "The login failed due to an IP restriction."
-4120 = "The current users account is currently locked for use. This is likely due to a hijacking and pending ownership verification."
-4121 = "The logon failed because the accounts email is not verified."
-4122 = "There is no URL matching the provided values."
-4123 = "Bad Response due to a Parse failure, missing field, etc."
-4124 = "The user cannot complete the action until they re-enter their password."
-4125 = "The value entered is outside the acceptable range."
-4126 = "Something happened that we didn't expect to ever happen."
-4127 = "The requested service has been configured to be unavailable."
-4128 = "The files submitted to the CEG server are not valid."
-4129 = "The device being used is not allowed to perform this action."
-4130 = "The action could not be complete because it is region restricted."
-4131 = "Temporary rate limit exceeded, try again later, different from k_EResultLimitExceeded which may be permanent."
-4132 = "Need two-factor code to login."
-4133 = "The thing we're trying to access has been deleted."
-4134 = "Login attempt failed, try to throttle response to possible attacker."
-4135 = "Two factor authentication (Steam Guard) code is incorrect."
-4136 = "The activation code for two-factor authentication (Steam Guard) didn't match."
-4137 = "The current account has been associated with multiple partners."
-4138 = "The data has not been modified."
-4139 = "The account does not have a mobile device associated with it."
-4140 = "The time presented is out of range or tolerance."
-4141 = "SMS code failure - no match, none pending, etc."
-4142 = "Too many accounts access this resource."
-4143 = "Too many changes to this account."
-4144 = "Too many changes to this phone."
-4145 = "Cannot refund to payment method, must use wallet."
-4146 = "Cannot send an email."
-4147 = "Can't perform operation until payment has settled."
-4148 = "The user needs to provide a valid captcha."
-4149 = "A game server login token owned by this token's owner has been banned."
-4150 = "Game server owner is denied for some other reason such as account locked, community ban, vac ban, missing phone, etc."
-4151 = "The type of thing we were requested to act on is invalid."
-4152 = "The IP address has been banned from taking this action."
-4153 = "This Game Server Login Token (GSLT) has expired from disuse; it can be reset for use."
-4154 = "user doesn't have enough wallet funds to complete the action"
-4155 = "There are too many of this thing pending already"
+
+// mano namoral eu não quero traduzir tudo isso tipo pq eu faria isso???
+
+//4049 = "- Erro da Oficina Steam -" // Header qualifier before the error message
+////
+//4050 = "Falha genérica."
+//4051 = "Seu cliente Steam não possui uma conexão com o back-end."
+//4052 = "Senha/Ticket inválido."
+//4053 = "O usuário está logado em outro lugar."
+//4054 = "Versão de protocolo incorreta."
+//4055 = "Um parâmetro está incorreto."
+//4056 = "Arquivo não encontrado."
+//4057 = "Método chamado está ocupado - ação não realizada."
+//4058 = "Objeto chamado estava em um estado inválido."
+//4059 = "O nome era inválido."
+//4060 = "O email era inválido."
+//4061 = "O nome não é único."
+//4062 = "Acesso negado."
+//4063 = "O tempo de ação se esgotou."
+//4064 = "O usuário foi banido por VAC2."
+//4065 = "Conta não encontrada."
+//4066 = "O ID da Steam estava inválido."
+//4067 = "O serviço requisitado está indisponível no momento."
+//4068 = "O usuário não está logado."
+//4069 = "Pedido está pendente, deve estar em processo ou esperando em terceiros."
+//4070 = "Encriptação ou Desencriptação falhou."
+//4071 = "Privilégio insuficiente."
+//4072 = "É bom demais."
+//4073 = "Acesso revogado (usado para passes de convidados revogados.)"
+//4074 = "Passe de Licença/Convidado que o usuário está tentando acessar está expirado."
+//4075 = "Passe de convidado já foi resgatado pela conta, não é possível usá-lo novamente."
+//4076 = "O pedido é uma duplicata e a ação já ocorreu no passado, ignorada desta vez."
+//4077 = "O usuário já possui todos os jogos neste pedido de resgate do passe de convidado."
+//4078 = "Endereço IP não encontrado."
+//4079 = "Não foi possível gravar a mudança no armazenamento de dados."
+//4080 = "Não foi possível obter a trava de acesso para esta operação."
+//4081 = "A seção de logon foi substituida."
+//4082 = "Não foi possível conectar."
+//4083 = "O handshake de autenticação falhou."
+//4084 = "Ocorreu uma falha genérica de IO."
+//4085 = "O servidor remoto desconectou."
+//4086 = "Não foi possível encontrar o carrinho de compras solicitado."
+//4087 = "Um usuário bloqueou a ação."
+//4088 = "O alvo está ignorando o remetente."
+//4089 = "Nada de acordo com o pedido encontrado."
+//4090 = "Esta conta está desabilitada."
+//4091 = "Este serviço não está aceitando mudanças de conteúdo no momento."
+//4092 = "Conta não possui um valor, então este serviço não está disponível."
+//4093 = "Permitido a realizar esta ação, mas apenas porque o solicitante é admin."
+//4094 = "Ocorreu uma incompatibilidade de versão no conteúdo transmitido no protocólo Steam."
+//4095 = "O CM atual não pode fornecer serviço para o usuário fazendo o pedido, usuário deve tentar outro."
+//4096 = "Você já está logado em outro lugar, este login com os crendenciais no cachê falhou."
+//4097 = "Este usuário já está logado em outro lugar. (Use k_EResultLoggedInElsewhere ao invés!)"
+//4098 = "Long running operation has suspended/paused. (ex. download de conteúdo.)"
+//4099 = "Operation has been canceled, typically by user. (eg. a content download.)"
+//4100 = "Operation canceled because data is ill formed or unrecoverable."
+//4101 = "Operation canceled - not enough disk space."
+//4102 = "The remote or IPC call has failed."
+//4103 = "Password could not be verified as it's unset server side."
+//4104 = "External account (PSN, Facebook...) is not linked to a Steam account."
+//4105 = "PSN ticket was invalid."
+//4106 = "External account (PSN, Facebook...) is already linked to some other account, must explicitly request to replace/delete the link first."
+//4107 = "The sync cannot resume due to a conflict between the local and remote files."
+//4108 = "The requested new password is not allowed."
+//4109 = "New value is the same as the old one. This is used for secret question and answer."
+//4110 = "Account login denied due to 2nd factor authentication failure."
+//4111 = "The requested new password is not legal."
+//4112 = "Account login denied due to auth code invalid."
+//4113 = "Account login denied due to 2nd factor auth failure - and no mail has been sent."
+//4114 = "The users hardware does not support Intel's Identity Protection Technology (IPT)."
+//4115 = "Intel's Identity Protection Technology (IPT) has failed to initialize."
+//4116 = "Operation failed due to parental control restrictions for current user."
+//4117 = "Facebook query returned an error."
+//4118 = "Account login denied due to an expired auth code."
+//4119 = "The login failed due to an IP restriction."
+//4120 = "The current users account is currently locked for use. This is likely due to a hijacking and pending ownership verification."
+//4121 = "The logon failed because the accounts email is not verified."
+//4122 = "There is no URL matching the provided values."
+//4123 = "Bad Response due to a Parse failure, missing field, etc."
+//4124 = "The user cannot complete the action until they re-enter their password."
+//4125 = "The value entered is outside the acceptable range."
+//4126 = "Something happened that we didn't expect to ever happen."
+//4127 = "The requested service has been configured to be unavailable."
+//4128 = "The files submitted to the CEG server are not valid."
+//4129 = "The device being used is not allowed to perform this action."
+//4130 = "The action could not be complete because it is region restricted."
+//4131 = "Temporary rate limit exceeded, try again later, different from k_EResultLimitExceeded which may be permanent."
+//4132 = "Need two-factor code to login."
+//4133 = "The thing we're trying to access has been deleted."
+//4134 = "Login attempt failed, try to throttle response to possible attacker."
+//4135 = "Two factor authentication (Steam Guard) code is incorrect."
+//4136 = "The activation code for two-factor authentication (Steam Guard) didn't match."
+//4137 = "The current account has been associated with multiple partners."
+//4138 = "The data has not been modified."
+//4139 = "The account does not have a mobile device associated with it."
+//4140 = "The time presented is out of range or tolerance."
+//4141 = "SMS code failure - no match, none pending, etc."
+//4142 = "Too many accounts access this resource."
+//4143 = "Too many changes to this account."
+//4144 = "Too many changes to this phone."
+//4145 = "Cannot refund to payment method, must use wallet."
+//4146 = "Cannot send an email."
+//4147 = "Can't perform operation until payment has settled."
+//4148 = "The user needs to provide a valid captcha."
+//4149 = "A game server login token owned by this token's owner has been banned."
+//4150 = "Game server owner is denied for some other reason such as account locked, community ban, vac ban, missing phone, etc."
+//4151 = "The type of thing we were requested to act on is invalid."
+//4152 = "The IP address has been banned from taking this action."
+//4153 = "This Game Server Login Token (GSLT) has expired from disuse; it can be reset for use."
+//4154 = "user doesn't have enough wallet funds to complete the action"
+//4155 = "There are too many of this thing pending already"
 
 //---- Custom Errors
 4179 = "Código de Erro"
