@@ -1,5 +1,8 @@
 # rivals-ptbr
- Arquivo de localização do Rivals of Aether para o português brasileiro kkkk pog :D
+
+__**Este projeto está abandonado faz muito tempo. Sinta-se livre para forkar e dar continuidade se quiser.**__
+
+Arquivo de localização do Rivals of Aether para o português brasileiro kkkk pog :D
 
 Então nesse repositório vem dois arquivos, um é o arquivo de localização que vocês podem editar diretamente,
 outro é um arquivo em lotes que automaticamente "atualiza" o LOC_CUSTOM.txt da sua pasta do Rivals com o que
